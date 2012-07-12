@@ -36,5 +36,6 @@ public class main_alumnos {
         alumnodao.insert(alumno);
         carreradao.insert(carrera);
         
+        
     }
 }

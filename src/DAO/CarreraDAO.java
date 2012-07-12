@@ -21,7 +21,7 @@ public class CarreraDAO implements OperacionesDAO{
 
     @Override
     public ArrayList select() {
-        throw new UnsupportedOperationException("Not supported yet.");
+        //throw new UnsupportedOperationException("Not supported yet.");
     }
 
     @Override
